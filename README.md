@@ -64,7 +64,7 @@ src/
 │ │ ├── mapper/ # MyBatis映射
 │ │ │ ├── HuiyuanDao.xml # 会员SQL映射
 │ │ │ ├── HuiyuanruzhuDao.xml # 入住SQL映射
-
+```
 
 ## 使用说明
 1. **运行环境**  
@@ -85,7 +85,7 @@ src/
    url: jdbc:mysql://127.0.0.1:3306/springboot6alf1?useUnicode=true&characterEncoding=utf-8
    username: root
    password: 123456  # 改为实际数据库密码
-```
+
 
 # 项目实际截图：
 ## 登录：
