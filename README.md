@@ -9,7 +9,8 @@
 ![Shiro](https://img.shields.io/badge/Shiro-1.3.2-green)
 
 
-> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+
 注：由于前端项目太大，仅上传了后端代码，未包含前端代码...
 
 ## 项目简介  
@@ -63,7 +64,7 @@ src/
 │ │ ├── mapper/ # MyBatis映射
 │ │ │ ├── HuiyuanDao.xml # 会员SQL映射
 │ │ │ ├── HuiyuanruzhuDao.xml # 入住SQL映射
-```
+
 
 ## 使用说明
 1. **运行环境**  
